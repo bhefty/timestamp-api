@@ -13,5 +13,3 @@
 - [x] 6. User Story: If it does not contain a date or Unix timestamp, it returns null for those properties.
 
 - [x] 7. Once you've finished implementing these user stories, click the "I've completed this challenge" button and enter the URLs for both your GitHub repository and your live app running on Heroku.
-
-- [x] 8. You can get feedback on your project by sharing it with your friends on Facebook.
